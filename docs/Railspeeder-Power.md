@@ -4,7 +4,7 @@ parent: Home
 nav_order: 1
 ---
 
-# [Subsystem Name]
+# [Railspeeder Power]
 
 > [!info]  
 > This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.

@@ -1,10 +1,10 @@
 ---
-title: [Propulsion]
+title: [Axle]
 parent: Home
-nav_order: 2
+nav_order: 3
 ---
 
-# [Subsystem Name]
+# [Railspeeder Axle]
 
 > [!info]  
 > This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.

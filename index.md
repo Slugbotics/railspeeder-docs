@@ -20,7 +20,7 @@ This vehicle will serve as a mobile platform for collecting data to assess the c
 
 Explore the major subsystems of the Railspeeder:
 
-1. [Rail Speeder Power](Rail-Speeder-Power)
-2. [Rail Speeder Axle](Rail-Speeder-Axle)
-3. [Rail Speeder Propulsion](Rail-Speeder-Propulsion)
-4. [Rail Speeder Chassis](Rail-Speeder-Chassis)
+1. [Rail Speeder Power](Railspeeder-Power)
+2. [Rail Speeder Axle](Railspeeder-Axle)
+3. [Rail Speeder Propulsion](Railspeeder-Propulsion)
+4. [Rail Speeder Chassis](Railspeeder-Chassis)

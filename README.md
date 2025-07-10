@@ -10,10 +10,10 @@ Railspeeder is a UCSC Slugbotics and Baskin Engineering project to design a ligh
 
 This documentation is divided into core subsystems:
 
-- [Power](./docs/Rail-Speeder-Power.md) – Electrical systems, battery architecture, power management
-- [Axle](./docs/Rail-Speeder-Axle.md) – Rail interface, guide wheels, and mechanical alignment
-- [Propulsion](./docs/Rail-Speeder-Propulsion.md) – Motors, drivetrain, and control
-- [Chassis](./docs/Rail-Speeder-Chassis.md) – Frame design, mounting points, and modularity
+- [Power](./docs/Railspeeder-Power.md) – Electrical systems, battery architecture, power management
+- [Axle](./docs/Railspeeder-Axle.md) – Rail interface, guide wheels, and mechanical alignment
+- [Propulsion](./docs/Railspeeder-Propulsion.md) – Motors, drivetrain, and control
+- [Chassis](./docs/Railspeeder-Chassis.md) – Frame design, mounting points, and modularity
 
 Additional pages may cover system integration, testing procedures, and cost estimation tools.
 
