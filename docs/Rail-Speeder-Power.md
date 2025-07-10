@@ -1,5 +1,5 @@
 ---
-title: [Subsystem Name]
+title: [Power]
 parent: Home
 nav_order: 1
 ---

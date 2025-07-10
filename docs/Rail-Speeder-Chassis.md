@@ -1,7 +1,7 @@
 ---
-title: [Subsystem Name]
+title: [Chassis]
 parent: Home
-nav_order: 1
+nav_order: 4
 ---
 
 # [Subsystem Name]

@@ -12,7 +12,7 @@ Welcome to the **Railspeeder** project, a student project led by UCSC Slugbotics
 
 This vehicle will serve as a mobile platform for collecting data to assess the condition of these historic rail lines. Key goals include enabling sustainable exploration, identifying restoration needs, and supporting future rail revitalization projects—all with minimal environmental impact.
 
-![Railspeeder Logo](RailSpeeder_logo.png)
+![Railspeeder Logo](assets/images/Railspeeder.png)
 
 ---
 
