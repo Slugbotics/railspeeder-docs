@@ -5,7 +5,7 @@ nav_order: 3
 layout: default
 ---
 
-# [Railspeeder Axle]
+# Railspeeder Axle
 
 This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
 

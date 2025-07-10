@@ -5,7 +5,7 @@ nav_order: 1
 layout: default
 ---
 
-# [Railspeeder Power]
+# Railspeeder Power
 
 This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
 

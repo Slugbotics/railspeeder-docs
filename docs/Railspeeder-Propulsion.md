@@ -5,7 +5,7 @@ nav_order: 2
 layout: default
 ---
 
-# [Railspeeder Propulsion]
+# Railspeeder Propulsion
 
 This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
 
