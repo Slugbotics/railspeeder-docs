@@ -2,12 +2,12 @@
 title: [Chassis]
 parent: Home
 nav_order: 4
+layout: default
 ---
 
 # [Railspeeder Chassis]
 
-> [!info]  
-> This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
+This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
 
 ---
 

@@ -2,12 +2,12 @@
 title: [Axle]
 parent: Home
 nav_order: 3
+layout: default
 ---
 
 # [Railspeeder Axle]
 
-> [!info]  
-> This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
+This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
 
 ---
 
