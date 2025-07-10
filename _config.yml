@@ -2,7 +2,5 @@ title: Railspeeder Documentation
 description: Documentation hub for the Railspeeder project
 theme: just-the-docs
 
-url: https://railspeeder-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://slugbotics.com/railspeeder-doc/
+logo: "/assets/images/Railspeeder.png"
