@@ -1,5 +1,5 @@
 ---
-title: [Systems Overview]
+title: Systems Overview
 parent: Home
 nav_order: 1
 layout: default

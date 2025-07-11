@@ -1,5 +1,5 @@
 ---
-title: [Power]
+title: Power
 parent: Home
 nav_order: 2
 layout: default

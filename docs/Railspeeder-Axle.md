@@ -1,5 +1,5 @@
 ---
-title: [Axle]
+title: Axle
 parent: Home
 nav_order: 4
 layout: default
