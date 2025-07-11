@@ -1,19 +1,21 @@
 ---
 title: [Propulsion]
 parent: Home
-nav_order: 2
+nav_order: 3
 layout: default
 ---
 
 # Railspeeder Propulsion
 
-This page documents the design, components, and function of the **[Subsystem Name]** subsystem in the Railspeeder project.
+This page documents the design, components, and function of the **[Subsystem
+Name]** subsystem in the Railspeeder project.
 
 ---
 
 ## Overview
 
-Provide a brief summary of what this subsystem does, why it matters, and how it fits into the overall Railspeeder project.
+Provide a brief summary of what this subsystem does, why it matters, and how it
+fits into the overall Railspeeder project.
 
 ---
 
@@ -29,8 +31,8 @@ List the key goals or requirements of the subsystem.
 
 ## Components
 
-| Part | Description | Source / Link |
-|------|-------------|----------------|
+| Part            | Description           | Source / Link         |
+| --------------- | --------------------- | --------------------- |
 | `[Component 1]` | `[Brief description]` | `[Link or datasheet]` |
 | `[Component 2]` | `[Brief description]` | `[Link or datasheet]` |
 
