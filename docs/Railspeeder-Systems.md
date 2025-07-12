@@ -15,10 +15,28 @@ how they work together.
 <!-- Edit with https://mermaid.live/ -->
 
 ```mermaid
-flowchart TD
-    A[Train] -->|Get money| B(Build train)
-    B --> C{hmm}
-    C -->|One| D[Train]
-    C -->|Two| E[More Train]
-    C -->|Three| F[Train Train]
+flowchart LR
+
+    subgraph CB[Control Board]
+        PICO[Raspberry Pi Pico]
+        ADC[AD58688 ADC]
+        CAN[Can Interface]
+        FAN[Fan Array]
+
+        ADC-->|Analog|PICO
+
+        PICO-->CAN
+        PICO-->|PWM|FAN
+
+        PICO-->|SPI + PWM|GDA
+    end
+
+    subgraph GDA[Gate Driver Array]
+        UH[Gate Driver U High Side]
+        UL[Gate Driver U Low Side]
+        VH[Gate Driver V High Side]
+        VL[Gate Driver V Low Side]
+        WH[Gate Driver W High Side]
+        WL[Gate Driver W Low Side]
+    end
 ```
