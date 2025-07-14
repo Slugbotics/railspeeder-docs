@@ -1,3 +1,3 @@
 {
-    theme: "neo-dark"
+    theme: "dark"
 }
