@@ -26,9 +26,7 @@ flowchart LR
         ADC-->|Analog|PICO
 
         PICO-->CAN
-        PICO-->|PWM|FAN
-
-        PICO-->|SPI + PWM|GDA
+        PICO-->|PWM|FAN        
     end
 
     subgraph GDA[Gate Driver Array]
@@ -38,5 +36,43 @@ flowchart LR
         VL[Gate Driver V Low Side]
         WH[Gate Driver W High Side]
         WL[Gate Driver W Low Side]
+
+        PICO-->|SPI + PWM|UH
+        PICO-->|SPI + PWM|UL
+        PICO-->|SPI + PWM|VH
+        PICO-->|SPI + PWM|VL
+        PICO-->|SPI + PWM|WH
+        PICO-->|SPI + PWM|WL
+
     end
+
+    subgraph PBI[Power Board Infra]
+        PB[Power Board]
+        IV[Isolated Voltage Sensor]
+
+        PB-->|Phase and DC Link Currentr|ADC
+        IV-->|Isolated Phase and DC Link Voltage|ADC
+    end
+
+    subgraph BC[Boost Convertor]
+        R3[Arduino Uno R3]
+        BCC[Boost Convertor Controls]
+        CAB[Can Interface]
+
+        R3-->BCC
+        R3-->CAB
+    end
+
+    subgraph HMI[Human Media Interface]
+        AM[Arduino Mega]
+        CAH[Can Interface]
+
+        AM-->CAH
+    end
+
+    subgraph CP[Control Panel]
+        TC[Thin Client]
+        AM-->|USB|TC
+    end
+'``
 ```
