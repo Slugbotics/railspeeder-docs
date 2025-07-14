@@ -6,3 +6,6 @@ logo: "/assets/images/Railspeeder.png"
 color_scheme: dark
 mermaid:
   version: "9.3.0"
+  theme: "neo-dark"
+  layout: "elk"
+

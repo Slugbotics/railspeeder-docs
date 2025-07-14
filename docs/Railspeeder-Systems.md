@@ -15,11 +15,6 @@ how they work together.
 <!-- Edit with https://mermaid.live/ -->
 
 ```mermaid
----
-config:
-  theme: neo-dark
-  layout: elk
----
 flowchart LR
 
     subgraph CB[Control Board]
