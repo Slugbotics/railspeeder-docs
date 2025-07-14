@@ -79,5 +79,4 @@ flowchart LR
         TC[Thin Client]
         AM-->|USB|TC
     end
-'``
 ```
