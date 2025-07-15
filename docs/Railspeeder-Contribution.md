@@ -32,7 +32,7 @@ Make your changes
 
 `nvim docs/railspeeder-....`
 
-Commit after sustanciable changes
+Commit after sustainable changes
 
 `git commit -am "descriptive commit message`
 
