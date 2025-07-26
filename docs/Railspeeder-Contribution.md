@@ -11,13 +11,6 @@ This page documents how to contribute to this wiki.
 
 ---
 
-## Overview
-
-This wiki is intended to allow new and old Railspeeder Contributors and academic
-peers to learn about the various parts of the project.
-
----
-
 ## Git
 
 Clone the project
