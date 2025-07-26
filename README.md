@@ -10,20 +10,7 @@ environmental surveying, and analysis to support future revitalization efforts.
 
 ---
 
-## Site Structure
-
-This documentation is divided into core subsystems:
-
-- [Power](./docs/Railspeeder-Power.md) – Electrical systems, battery
-  architecture, power management
-- [Axle](./docs/Railspeeder-Axle.md) – Rail interface, guide wheels, and
-  mechanical alignment
-- [Propulsion](./docs/Railspeeder-Propulsion.md) – Motors, drivetrain, and
-  control
-- [Chassis](./docs/Railspeeder-Chassis.md) – Frame design, mounting points, and
-  modularity
-
-Additional pages may cover system integration, testing procedures, and cost
-estimation tools.
+Further documentation on the project and contributing can be found on the
+[live site](https://slugbotics.com/railspeeder-docs/docs/Railspeeder-Contribution.html)
 
 ---

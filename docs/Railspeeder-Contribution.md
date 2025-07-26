@@ -36,6 +36,10 @@ Commit after sustainable changes
 
 `git commit -am "descriptive commit message`
 
+Install dependencies
+
+`nix develop`
+
 Test
 
 `bundle exec jekyll serve`
