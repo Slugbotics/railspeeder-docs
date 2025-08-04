@@ -14,10 +14,11 @@ subsystem in the Railspeeder project.
 
 ## Overview
 
-The payload is integral to the mission of Railspeeder. It's goal is to evaluate
-the health and saftey of existing rail networks, so they the cost of reopening
-those rails can be determined. By doing this we can move towards a public
-transit system that is efficient, affordable, and accessabile for all.
+Payload is the mission hardware of Railspeeder. It is what gives us the ability
+to perform detailed inspections of railways at high speed. Through this we can
+give saftey reports and advise what rail lines are appropiate for public use,
+thus expanding the American rail network and making public transportation more
+expansive and affordable.
 
 ---
 
@@ -30,12 +31,3 @@ The payload is host to a suite of sensors and data processors enumerated below.
 - Eddy current array
 - Real time processing
 - Data logging
-
----
-
-## Components
-
-| Part            | Description           | Source / Link         |
-| --------------- | --------------------- | --------------------- |
-| `[Component 1]` | `[Brief description]` | `[Link or datasheet]` |
-| `[Component 2]` | `[Brief description]` | `[Link or datasheet]` |
